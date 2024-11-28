@@ -1,0 +1,13 @@
+{
+    "editor.wordWrap": "on",
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.alwaysSignOff": true,
+    "git.autoStash": true,
+    "git.openRepositoryInParentFolders": "always",
+    "git.pruneOnFetch": false,
+    "git.pullBeforeCheckout": false,
+    "git.rememberPostCommitCommand": false,
+    "git.showProgress": false,
+    "git.requireGitUserConfig": false,
+    "git.pullTags": false
+}
